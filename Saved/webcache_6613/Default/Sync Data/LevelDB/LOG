@@ -1,2 +1,3 @@
-2026/05/24-22:54:33.666 5a50 Creating DB C:\Users\hcfai\OneDrive\Desktop\GAM303Project\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/24-22:54:33.677 5a50 Reusing MANIFEST C:\Users\hcfai\OneDrive\Desktop\GAM303Project\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/31-20:52:21.560 5034 Reusing MANIFEST C:\Users\hcfai\OneDrive\Desktop\GAM303Project\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/31-20:52:21.561 5034 Recovering log #3
+2026/05/31-20:52:21.562 5034 Reusing old log C:\Users\hcfai\OneDrive\Desktop\GAM303Project\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
